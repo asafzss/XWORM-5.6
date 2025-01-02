@@ -2,7 +2,7 @@
 
 <b>
 
-This Project Contains XWorm V5.6 FULL Source Codes
+This project contains the full crack of XWorm V5.6
 
 ## Compilation and Usage
 
